@@ -1,4 +1,4 @@
-package pages.upload;
+package pages.download;
 
 
 import org.openqa.selenium.WebElement;

@@ -2,10 +2,9 @@ package uitests;
 
 
 import org.testng.Assert;
-import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import pages.upload.DownloadFilePage;
+import pages.download.DownloadFilePage;
 import utils.MyFilesUtils;
 
 import java.io.File;
